@@ -5,7 +5,7 @@
 
 Hello, I'm Chong Shen. I'm a [computational physicist](https://pof.tnw.utwente.nl/people/profile/951) with an interest in Atmospheric Physics and Quantitative Research. Presently, I'm a Senior Data Scientist at [T-DAB.ai](https://t-dab.ai).
 
-- 🔭 I'm currently developing production-grade federated learning on IoT devices.
-- 🌱 I'm experimenting with deep learning time-series forecasting for fluid turbulence.
+- 🔭 I'm currently developing distributed learning on IoT devices.
+- 🌱 I'm learning about spatio-temporal DL forecasting for atmospheric flows and turbulence.
 - 💬 Ask me about scientific visualisations, parallel computing and filter coffee ☕️.
 - ⚡ Fun fact: I do coin magic 🪙 (muscle pass anyone?)
