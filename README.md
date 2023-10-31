@@ -3,9 +3,10 @@
 [<img src="https://img.shields.io/badge/orcid-A6CE39?&style=for-the-badge&logo=orcid&logoColor=white">](https://orcid.org/0000-0002-4643-4192)
 [<img src="https://img.shields.io/badge/googlescholar-4285F4?&style=for-the-badge&logo=googlescholar&logoColor=white">](https://scholar.google.com/citations?user=WbqSoZoAAAAJ&hl=en)
 
-Hello, I'm Chong Shen. I'm a [computational physicist](https://pof.tnw.utwente.nl/people/profile/951) with an interest in Atmospheric Physics and Quantitative Research. Presently, I'm a Senior Data Scientist at [T-DAB.ai](https://t-dab.ai).
+Hello, I'm Chong Shen. I design, build, and test ML systems that operate on edge devices at scale. I'm currently the lead data scientist at [OctaiPipe.ai](https://www.octaipipe.ai).
 
-- 🔭 I'm currently developing distributed learning on IoT devices.
-- 🌱 I'm learning about spatio-temporal DL forecasting for atmospheric flows and turbulence.
-- 💬 Ask me about scientific visualisations, parallel computing and filter coffee ☕️.
+A little bit about me:
+- 🧑‍💻 I've a background in [computational physics](https://pof.tnw.utwente.nl/people/profile/951) running parallelised codes in HPCs.
+- 🔭 I'm currently developing production-grade federated learning solutions for edge systems.
+- 🌱 This year, I'm learning about LLM and building ML systems for applied physics problems.
 - ⚡ Fun fact: I do coin magic 🪙 (muscle pass anyone?)
